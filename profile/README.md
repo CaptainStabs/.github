@@ -25,9 +25,9 @@ We have a few ongoing projects in repositories below, to help us share data and 
 
 flowchart TD
 
-classDef white fill:#fffbfa,stroke:black
-classDef purple fill:#cbbfca,stroke:black
-classDef gold fill:#e2be77,stroke:black
+classDef white fill:#ffffff,stroke:#000000,color:#000000
+classDef purple fill:#7e57c2,stroke:#000000,color:#ffffff
+classDef gold fill:#f4a300,stroke:#000000,color:#000000
 
 requests["`Data Requests made by community members`"]:::purple
 automation["`Automated crawling for Data Sources with 
